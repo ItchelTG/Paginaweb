@@ -1,3 +1,2 @@
-## ¿Por qué no puedo editar la pagina?
----
-Vamos a ver si ya jala 
+## Creo que entendí
+Aquí iría lo primerito 
