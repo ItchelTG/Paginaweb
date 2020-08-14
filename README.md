@@ -5,6 +5,8 @@ En el estado de Baja California se ha encontrado una gran variabilidad en cuanto
 Esto se puede comprobar con con la siguiente imagen:
 Podemos observar que, en ciudades como Mexicali que tiene una población total de  1,087,478de personas, los contagios se han dado en mayor cantidad que en, por ejemplo, Tijuana, a pesar de que la segunda tiene una densidad poblacional mayor: 1,789,531
 
+![Image de grafica](https://github.com/ItchelTG/Paginaweb/blob/master/image.png?raw=true) ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 Por otro lado, estos datos también entran en conflicto directo con diversos artículos que señalan que las altas temperaturas pueden disminuir la transmisión del virus.
 
 Se puede apreciar que, si bien hay factores climáticos que efectivamente inciden en el índice de propagación viral, éstos no son suficientes para describir y/o predecir el comportamiento de la pandemia. Se debe tener en cuenta el contexto social para tener un análisis completo, como es la condición socioeconómica de la población. 
